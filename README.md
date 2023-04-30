@@ -8,16 +8,16 @@ The app uses iTunes api to request for songs by artists and display the top 25 r
 
 # Key Technologies
 
-- React Native [https://reactnative.dev/]
-- Typescript [https://www.typescriptlang.org/]
-- Expo [https://expo.dev/]
-- Native Base [https://github.com/GeekyAnts/NativeBase]
-- TanStack Query [https://tanstack.com/query/latest]
-- Axios [https://axios-http.com/docs/intro]
-- Jest [https://jestjs.io/]
-- ESLint [https://eslint.org/]
-- Prettier [https://prettier.io/]
-- Mock service workers [https://mswjs.io/]V
+- [React Native](https://reactnative.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Expo](https://expo.dev/)
+- [Native Base](https://github.com/GeekyAnts/NativeBase)
+- [TanStack Query](https://tanstack.com/query/latest)
+- [Axios](https://axios-http.com/docs/intro)
+- [Jest](https://jestjs.io/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Mock service workers](https://mswjs.io/)
 
 # Instructions
 
